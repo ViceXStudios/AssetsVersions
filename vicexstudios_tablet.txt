@@ -1,0 +1,4 @@
+version: 1.0.0
+news:
+important: true
+date: 2025-12-14

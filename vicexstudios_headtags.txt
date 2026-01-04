@@ -1,4 +1,5 @@
-version: 2.0.1
-news:
+version: 3.0.0
+news: NEW UPDATE
 important: true
-date: 2025-11-20
+date: 2026-01-04
+

@@ -1,4 +1,4 @@
-version: 1.2.0
-news:
+version: 2.3.0
+news: "Major update: Universal ESX Legacy + QBCore support, automatic framework detection, reworked oxmysql database system, legacy database migration, OneSync jail dimension, new admin commands, improved permissions, clothing system, persistence, security, Discord logging, developer exports and complete installation documentation."
 important: true
-date: 2025-11-20
+date: 2026-08-15
